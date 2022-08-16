@@ -1,0 +1,7 @@
+C:\Users\C5093300\source\repos\ExamplesUsage\AggregateRoot\bin\Debug\AggregateRoot.exe.config
+C:\Users\C5093300\source\repos\ExamplesUsage\AggregateRoot\bin\Debug\AggregateRoot.exe
+C:\Users\C5093300\source\repos\ExamplesUsage\AggregateRoot\bin\Debug\AggregateRoot.pdb
+C:\Users\C5093300\source\repos\ExamplesUsage\AggregateRoot\obj\Debug\AggregateRoot.csprojAssemblyReference.cache
+C:\Users\C5093300\source\repos\ExamplesUsage\AggregateRoot\obj\Debug\AggregateRoot.csproj.CoreCompileInputs.cache
+C:\Users\C5093300\source\repos\ExamplesUsage\AggregateRoot\obj\Debug\AggregateRoot.exe
+C:\Users\C5093300\source\repos\ExamplesUsage\AggregateRoot\obj\Debug\AggregateRoot.pdb

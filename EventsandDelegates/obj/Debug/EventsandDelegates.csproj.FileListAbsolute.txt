@@ -1,0 +1,7 @@
+C:\Users\C5093300\source\repos\ExamplesUsage\EventsandDelegates\bin\Debug\EventsandDelegates.exe.config
+C:\Users\C5093300\source\repos\ExamplesUsage\EventsandDelegates\bin\Debug\EventsandDelegates.exe
+C:\Users\C5093300\source\repos\ExamplesUsage\EventsandDelegates\bin\Debug\EventsandDelegates.pdb
+C:\Users\C5093300\source\repos\ExamplesUsage\EventsandDelegates\obj\Debug\EventsandDelegates.csprojAssemblyReference.cache
+C:\Users\C5093300\source\repos\ExamplesUsage\EventsandDelegates\obj\Debug\EventsandDelegates.csproj.CoreCompileInputs.cache
+C:\Users\C5093300\source\repos\ExamplesUsage\EventsandDelegates\obj\Debug\EventsandDelegates.exe
+C:\Users\C5093300\source\repos\ExamplesUsage\EventsandDelegates\obj\Debug\EventsandDelegates.pdb

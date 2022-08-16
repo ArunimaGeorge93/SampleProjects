@@ -1,0 +1,7 @@
+C:\Users\C5093300\source\repos\ExamplesUsage\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe.config
+C:\Users\C5093300\source\repos\ExamplesUsage\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe
+C:\Users\C5093300\source\repos\ExamplesUsage\AbstractClassDemo\bin\Debug\AbstractClassDemo.pdb
+C:\Users\C5093300\source\repos\ExamplesUsage\AbstractClassDemo\obj\Debug\AbstractClassDemo.csprojAssemblyReference.cache
+C:\Users\C5093300\source\repos\ExamplesUsage\AbstractClassDemo\obj\Debug\AbstractClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\C5093300\source\repos\ExamplesUsage\AbstractClassDemo\obj\Debug\AbstractClassDemo.exe
+C:\Users\C5093300\source\repos\ExamplesUsage\AbstractClassDemo\obj\Debug\AbstractClassDemo.pdb
